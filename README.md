@@ -10,7 +10,7 @@ Btcbf is a fast and efficient bitcoin private key brute force tool written in py
 
  $ pip install -r requirements.txt
 
- $ python Btcbf.py or  $ python3 Btcbf.py on Linux
+ $ python3 Btcbf.py (on Linux)
 ```
 
 
