@@ -2,7 +2,7 @@
 # Btcbf  [![CodeFactor](https://www.codefactor.io/repository/github/vlnahp/btcbf/badge/main)](https://www.codefactor.io/repository/github/vlnahp/btcbf/overview/main)
 Btcbf is a fast and efficient bitcoin private key brute force tool written in python. It works by generating random or sequential private keys and their corresponding public address then checks this through the online bitcoin API or the offline TXT database. 
 
-## **Quick Start**
+## **Quick Start (ensure Python3 is installed)**
 ```
  $ git clone https://github.com/vlnahp/Btcbf.git
 
