@@ -177,7 +177,7 @@ class Btcbf():
                         print("Stopping\n")
                         exit()
             else:
-                print("exitting...")
+                print("exiting...")
                 exit()
         elif user_input == "4":
             method_input = input(" \n Enter the desired number: \n \n   [1]: random attack \n   [2]: sequential attack \n   [0]: exit \n \n Type something>")
@@ -188,10 +188,10 @@ class Btcbf():
                 input("Press Enter to exit")
                 exit()
             else:
-                print("exitting...")
+                print("exiting...")
                 exit()
         elif user_input == "0":
-            print("exitting")
+            print("exiting")
             sleep(2)
             exit()
         else:
