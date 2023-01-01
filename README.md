@@ -19,7 +19,7 @@ Btcbf is a fast and efficient bitcoin private key brute force tool written in py
 
 
 ## The Goal
-The main goal is to prove bitcoin is secure. At least until the day that Quantum computers start working against it, and learn python! 
+The main goal is to prove bitcoin is secure. At least until the day that Quantum computers start working against it, and learn python. 
 
 There are also some useful tools implemented.
 
@@ -27,7 +27,7 @@ There are also some useful tools implemented.
 
 ## **Requirements**
 
-  In offline mode, a database is necessary. By default, it is `address.txt` containing some addresses. Let's be honest, searching online takes too long and the addresses with balance included in the program are too scarce (as having a current text file with all addresses would make this repository over 5GB). So the users who wish, can download the latest text file from [here](http://addresses.loyce.club/) (direct [link](http://addresses.loyce.club/Bitcoin_addresses_LATEST.txt.gz)), rename and replace it with the "address.txt". But be careful about memory issues. Only use this database if you have sufficient RAM! 32GB should be sufficient for the full address list.
+  In offline mode, a database is necessary. By default, it is `address.txt` containing some addresses. Let's be honest, searching online takes too long and the addresses with balance included in the program are too scarce (as having a current text file with all addresses would make this repository over 5GB). So the users who wish, can download the latest text file from [here](http://addresses.loyce.club/) (direct [link](http://addresses.loyce.club/Bitcoin_addresses_LATEST.txt.gz)), rename and replace it with the "address.txt". But be careful about memory issues. Only use this database if you have sufficient RAM, 32GB should be sufficient for the full address list.
 
 To install the requirements run the command below:
 
