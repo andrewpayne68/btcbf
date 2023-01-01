@@ -1,5 +1,5 @@
 
-# Btcbf  [![CodeFactor](https://www.codefactor.io/repository/github/vlnahp/btcbf/badge/main)](https://www.codefactor.io/repository/github/vlnahp/btcbf/overview/main)
+# btcbf  [![CodeFactor](https://www.codefactor.io/repository/github/vlnahp/btcbf/badge/main)](https://www.codefactor.io/repository/github/vlnahp/btcbf/overview/main)
 Btcbf is a fast and efficient bitcoin private key brute force tool written in python. It works by generating random or sequential private keys and their corresponding public address then checks this through the online bitcoin API or the offline TXT database. 
 
 ## **Quick Start**
@@ -7,11 +7,11 @@ Ensure Python3 is installed, eg. `$ sudo apt install python3 python3-pip` for de
 ```
  $ git clone https://github.com/andrewpayne68/btcbf.git
 
- $ cd Btcbf
+ $ cd btcbf
 
  $ pip install -r requirements.txt
 
- $ python3 Btcbf.py (on Linux)
+ $ python3 btcbf.py (on Linux)
 ```
 
 
@@ -36,7 +36,7 @@ To install the requirements run the command below:
 
 
 ## **Usage**
-Just execute this command `$ python3 Btcbf.py` (on Linux), Btcbf tells you what to do.
+Just execute this command `$ python3 btcbf.py` (on Linux), btcbf tells you what to do.
 
 Type your desired action and follow the on screen instructions. 
 
