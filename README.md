@@ -5,7 +5,7 @@ Btcbf is a fast and efficient bitcoin private key brute force tool written in py
 ## **Quick Start**
 Ensure Python3 is installed, eg. `$ sudo apt install python3 python3-pip` for debian/ubuntu `$ sudo pacman -Sy python3-pip` for Arch
 ```
- $ git clone https://github.com/vlnahp/Btcbf.git
+ $ git clone https://github.com/andrewpayne68/btcbf.git
 
  $ cd Btcbf
 
